@@ -1,0 +1,1 @@
+This is my second project after i build responsive front end apps. The project is fully constructed using php, html forms, materlized css, php the serverside language and mysql to store data.It has add page where you can add your info, form validation is placed if you don't put complete info, a prompt will appear. You can submit and see info you have entered.
